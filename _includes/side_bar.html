@@ -21,7 +21,7 @@
     <span class="en">{{p.title_en}} </span>
   </div>
   </a>
-  {% if page.layout == 'focus' %}
+  {% if page.layout == 'focus' p.categories == page.categories %}
    {% for p2 in site.pages %}
     {% if p2.layout == 'default' and p2.categories == page.categories %}
     <a onclick="window.location='#{{p2.name | slice: 0,5}}';">
