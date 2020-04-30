@@ -14,7 +14,7 @@ color: red
     Ana Lucìa Schmidt *<sup>2</sup>,
     Eleonora Grassucci <sup>3</sup>,
     Antonio Scala <sup>1</sup>,
-    Walter Quattrociocchi <sup>3</sup>,
+    Walter Quattrociocchi <sup>2</sup>,
     Fabiana Zollo <sup>2,4,+</sup><br>
     *<small> Questi autori hanno contribuito equamente allo studio.</small><br>
     <sup>1</sup> <small><a href="https://www.isc.cnr.it/">Istituto dei sistemi complessi, Roma</a></small>
@@ -37,7 +37,7 @@ color: red
     Ana Lucìa Schmidt *<sup>2</sup>,
     Eleonora Grassucci <sup>3</sup>,
     Antonio Scala <sup>1</sup>,
-    Walter Quattrociocchi <sup>3</sup>,
+    Walter Quattrociocchi <sup>2</sup>,
     Fabiana Zollo <sup>2,4,+</sup><br>
     *<small> Questi autori hanno contribuito equamente allo studio.</small><br>
     <sup>1</sup> <small><a href="https://www.isc.cnr.it/">Istituto dei sistemi complessi, Roma</a></small>
