@@ -17,15 +17,15 @@ color: red
     Walter Quattrociocchi <sup>2</sup>,
     Fabiana Zollo <sup>2,4,+</sup><br>
     *<small> Questi autori hanno contribuito equamente allo studio.</small><br>
-    <sup>1</sup> <small><a href="https://www.isc.cnr.it/">Istituto dei sistemi complessi, Roma</a></small>
-    <sup>2</sup> <small><a href="https://www.unive.it/">Università Ca’ Foscari di Venezia</a></small>
+    <sup>1</sup> <small><a href="https://www.isc.cnr.it/">Istituto dei sistemi complessi CNR Roma</a></small>
+    <sup>2</sup> <small><a href="https://www.unive.it/">Università Ca' Foscari di Venezia</a></small>
     <sup>3</sup> <small><a href="http://www.ospedalebambinogesu.it/home">Ospedale Pediatrico Bambino Gesù, Roma</a></small>
     <sup>4</sup> <small><a href="https://hscif.org/venice/">Center for the Humanities and Social Change, Venezia</a></small><br>
     <sup>+</sup><small>e-mail: <a href="fabiana.zollo@unive.it">fabiana.zollo@unive.it</a></small>
     </div>
     <br><br>
     <p> 
-	Una delle sfide poste dall’emergenza sanitaria in corso consiste nel comprendere come le persone si informano, selezionano e percepiscono i contenuti e, possibilmente, come questo incide sulle loro decisioni. In questo report, <b>aggiornato periodicamente</b>, proviamo a delineare lo scenario informativo su COVID-19 caratterizzando la diffusione e la percezione di notizie e contenuti sul coronavirus sulle principali piattaforme social a partire dal 1° gennaio 2020.
+	Una delle sfide poste dall'emergenza sanitaria in corso consiste nel comprendere come le persone si informano, selezionano e percepiscono i contenuti e, possibilmente, come questo incide sulle loro decisioni. In questo report, <b>aggiornato periodicamente</b>, proviamo a delineare lo scenario informativo su COVID-19 caratterizzando la diffusione e la percezione di notizie e contenuti sul coronavirus sulle principali piattaforme social a partire dal 1° gennaio 2020.
     </p>
   </div>
 </div>
@@ -40,8 +40,8 @@ color: red
     Walter Quattrociocchi <sup>2</sup>,
     Fabiana Zollo <sup>2,4,+</sup><br>
     *<small> Questi autori hanno contribuito equamente allo studio.</small><br>
-    <sup>1</sup> <small><a href="https://www.isc.cnr.it/">Istituto dei sistemi complessi, Roma</a></small>
-    <sup>2</sup> <small><a href="https://www.unive.it/">Università Ca’ Foscari di Venezia</a></small>
+    <sup>1</sup> <small><a href="https://www.isc.cnr.it/">Istituto dei sistemi complessi CNR, Roma</a></small>
+    <sup>2</sup> <small><a href="https://www.unive.it/">Università Ca' Foscari di Venezia</a></small>
     <sup>3</sup> <small><a href="http://www.ospedalebambinogesu.it/home">Ospedale Pediatrico Bambino Gesù, Roma</a></small>
     <sup>4</sup> <small><a href="https://hscif.org/venice/">Center for the Humanities and Social Change, Venezia</a></small><br>
     <sup>+</sup><small>e-mail: <a href="fabiana.zollo@unive.it">fabiana.zollo@unive.it</a></small>

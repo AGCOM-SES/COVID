@@ -32,7 +32,7 @@ title_en: Who talks about coronavirus? How much?
 
 <div class="it">
 	<p>
-	Il nostro studio parte dall’analisi dello spazio mediatico dedicato al coronavirus dalle <b>diverse fonti di informazione</b> sui propri canali social. Le fonti di informazione considerate sono suddivise nelle seguenti categorie:
+	Il nostro studio parte dall'analisi dello spazio mediatico dedicato al coronavirus dalle <b>diverse fonti di informazione</b> sui propri canali social. Le fonti di informazione considerate sono suddivise nelle seguenti categorie:
 	</p>
 	<p>
 	<ul>
@@ -50,7 +50,7 @@ title_en: Who talks about coronavirus? How much?
 	Per maggiori informazioni, puoi far riferimento alle note metodologiche in fondo a questa pagina.
 	</p>
 	<p>
-	La Figura 1 mostra la <b>percentuale di post settimanali</b> pubblicati su Facebook sul tema del coronavirus. Se nelle prime settimane d’emergenza la percentuale di contenuti su COVID-19 rimaneva inferiore al 12%, a partire da fine febbraio la percentuale di post dedicati al tema triplica, rimanendo fin dall’8 marzo stabilmente sopra il 40%, con punte superiori al 55%. Possiamo notare, inoltre, che una buona parte di questi contenuti (più del 15% a partire dal 23 febbraio) proviene dalle testate digitali, seguite dai quotidiani e dalle fonti di disinformazione. Queste ultime producono il 4% dei contenuti su COVID-19, con una media di circa 3,400 post settimanali a partire dal 23 febbraio.
+	La Figura 1 mostra la <b>percentuale di post settimanali</b> pubblicati su Facebook sul tema del coronavirus. Se nelle prime settimane d'emergenza la percentuale di contenuti su COVID-19 rimaneva inferiore al 12%, a partire da fine febbraio la percentuale di post dedicati al tema triplica, rimanendo fin dall'8 marzo stabilmente sopra il 40%, con punte superiori al 55%. Possiamo notare, inoltre, che una buona parte di questi contenuti (più del 15% a partire dal 23 febbraio) proviene dalle testate digitali, seguite dai quotidiani e dalle fonti di disinformazione. Queste ultime producono il 4% dei contenuti su COVID-19, con una media di circa 3,400 post settimanali a partire dal 23 febbraio.
 	</p>
 </div>
 
@@ -69,13 +69,11 @@ title_en: Who talks about coronavirus? How much?
 
 <div class="it">
 	<p>
-	Analogamente alla precedente, la Figura 2 mostra <b>la percentuale di contenuti settimanali pubblicati su Twitter</b> sulla tematica COVID-19. Anche in questo caso, la percentuale di notizie sul coronavirus resta inferiore al 12% fino alla terza settimana di febbraio, a partire dalla quale assistiamo ad una produzione più che raddoppiata di contenuti sul tema, che si assesta rapidamente sopra il 30%, con picchi vicini al 50% nelle settimane centrali del mese di marzo. I tweet provenienti da fonti disinformazione hanno un’incidenza inferiore all’1,2% nell’intero periodo considerato.  
+	Analogamente alla precedente, la Figura 2 mostra <b>la percentuale di contenuti settimanali pubblicati su Twitter</b> sulla tematica COVID-19. Anche in questo caso, la percentuale di notizie sul coronavirus resta inferiore al 12% fino alla terza settimana di febbraio, a partire dalla quale assistiamo ad una produzione più che raddoppiata di contenuti sul tema, che si assesta rapidamente sopra il 30%, con picchi vicini al 50% nelle settimane centrali del mese di marzo. I tweet provenienti da fonti disinformazione hanno un'incidenza inferiore all'1,2% nell'intero periodo considerato.  
 	</p>
 </div>
 
-<div>
-	<p align="center">
-	<iframe style="width: 1100px; height: 500px; border: none;" src="assets/images/2_tw_covid_content.html"></iframe>
-	</p>
+<div class="w3-white w3-card-4 w3-center" >
+    {% include figures/2_tw_covid_content.html %}
 </div>
 
