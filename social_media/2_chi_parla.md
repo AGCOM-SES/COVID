@@ -55,10 +55,8 @@ title_en: Who talks about coronavirus? How much?
 </div>
 
 
-<div>
-	<p align="center">
-	<iframe style="width: 1100px; height: 500px; border: none;" src="assets/images/2_fb_covid_content.html"></iframe>
-	</p>
+<div class="w3-white w3-card-4 w3-center" >
+    {% include figures/2_fb_covid_content.html %}
 </div>
 
 <div class="en">

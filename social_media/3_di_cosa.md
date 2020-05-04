@@ -18,10 +18,8 @@ title_en: What do they talk about?
     </p>
 </div>
 
-<div>
-	<p align="center">
-		<img width="800" src="assets/images/3_wordcloud.png">
-	</p>
+<div class="w3-white w3-card-4 w3-center" >
+	<img width="1000" src="assets/images/3_wordcloud.png">
 </div>
 
 <div class="en">
