@@ -29,10 +29,8 @@ title_en: What do the users think?
 	</p>
 </div>
 
-<div> 
-	<p align="center">
-	<iframe style="width: 1100px; height: 500px; border: none;" src="assets/images/4_overperforming.html"></iframe>
-	</p>
+<div class="w3-white w3-card-4 w3-center" >
+    {% include figures/4_overperforming.html %}
 </div>
 
 <div class="en">
@@ -47,9 +45,7 @@ title_en: What do the users think?
 	</p>
 </div>
 
-<div> 
-	<p align="center">
-	<iframe  style="width: 1100px; height: 500px; border: none;" src="assets/images/4_reactions.html"></iframe>
-	</p>
+<div class="w3-white w3-card-4 w3-center" >
+    {% include figures/4_reactions.html %}
 </div>
 
