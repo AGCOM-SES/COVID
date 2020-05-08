@@ -42,7 +42,7 @@ title_en: What do they talk about?
 	La Figura 3 mostra i risultati per Facebook. Le tematiche sono ordinate, da sinistra a destra, in base al livello di copertura tra le fonti di disinformazione. Ad esempio, il tema Trend dei contagi è stato trattato in più del 12% dei contenuti prodotti sia da fonti di informazione che fonti di disinformazione. Sostanzialmente, gli argomenti individuati ricevono attenzione simile da entrambe le selezioni di fonti.
 	</p>
 	<p>
-	Differenze degne di nota a favore di Informazione riguardano per lo più argomenti di interesse pubblico come le Misure previste dai vari DPCM e i Provvedimenti regionali. Al contrario, le tematiche preferite da Disinformazione sono legate soprattutto alla natura polarizzante dell'argomento, come ad esempio le ipotesi sull'Origine del virus e la possibile Relazione ambiente-virus (smog, cambiamento climatico,…). La Figura 4 mostra i risultati e un andamento simile anche per gli argomenti relativi al COVID-19 affrontati su Twitter.
+	Differenze degne di nota a favore di Informazione riguardano per lo più argomenti di interesse pubblico come le Misure previste dai vari DPCM e i Provvedimenti regionali. Al contrario, le tematiche preferite da Disinformazione sono legate soprattutto alla natura polarizzante dell'argomento, come ad esempio le ipotesi sull'Origine del virus e la possibile Relazione ambiente-virus (smog, cambiamento climatico,…).
     </p>
 </div>
 
