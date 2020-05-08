@@ -13,6 +13,7 @@ title_en: What do the users think?
 	<p>
 	“Overperforming” posts get more engagement than standard posts, i.e., they get more likes, comments, reactions, and shares than the average content published on the same page. Thanks to this new metric we can understand if COVID-19 posts get more or less attention than other content.
 	</p>
+	<p>
 	In particular, Figure 5 allows us to compare differences between source types. With the spreading of the epidemic, information on COVID-19 gains more and  more engagement for all source types. For many sources (News agencies, newspapers, institutions, digital news outlets, TVs), starting from the end of February, content on coronavirus has been performing better than other content. This is very noticeable for some cases, such as news agencies, TVs, newspapers and digital news outlets. However, this overtake does not happen for radios, scientific sources and misinformation, where content other than COVID-19 seems to perform better than their counterpart. This is surprising, especially for scientific information sources, for which one would expect a greater interest from users for coronavirus information. However, for these sources the percentage of overperforming posts on COVID-19 remains under 14%.
 	</p>
 </div>
@@ -48,4 +49,3 @@ title_en: What do the users think?
 <div class="w3-white w3-card-4 w3-center" >
     {% include figures/4_reactions.html %}
 </div>
-
