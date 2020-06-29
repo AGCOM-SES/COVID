@@ -26,7 +26,7 @@ title_en: Who talks about coronavirus? How much?
 	For more information, please refer to the methodological notes at the end of this page.
 	</p>
 	<p>
-	Figure 1 shows the <b>percentage of weekly posts</b> published on Facebook on the topic of coronavirus. While in the first weeks of the emergency the percentage of content on COVID-19 was less than 12%, starting from the end of February, the percentage of posts on the topic tripled, staying consistently higher than 40%, with peaks greater than 55%. We also notice that a large part of these contents (more than 15% starting from February, 23rd) comes from digital news outlets, followed by newspapers and misinformation sources. The latter produced 4% of COVID-19 content, with an average of about 3.400 weekly posts starting from February, 23rd.
+	Figure 1 shows the <b>percentage of weekly posts</b> published on Facebook, Instagram and Twitter on the topic of coronavirus. While in the first weeks of the emergency the percentage of content on COVID-19 was less than 10% on all the platforms, with the first cases confirmed in Lombardy (february 20, 2020) this fraction quadruples, remaining for over two months above 25% on Facebook, 30% on Twitter and 45% on Instagram, with peaks of 40, 50 and 65%, respectively. It is worth noting that Instagram reaches the highest percentages although, with an average of 2,960 posts per week, it is the least used channel, followed by Twitter with 33.930 and Facebook with 78,150.
 	</p>
 </div>
 
@@ -50,28 +50,43 @@ title_en: Who talks about coronavirus? How much?
 	Per maggiori informazioni, puoi far riferimento alle note metodologiche in fondo a questa pagina.
 	</p>
 	<p>
-	La Figura 1 mostra la <b>percentuale di post settimanali</b> pubblicati su Facebook sul tema del coronavirus. Se nelle prime settimane d'emergenza la percentuale di contenuti su COVID-19 rimaneva inferiore al 12%, a partire da fine febbraio la percentuale di post dedicati al tema triplica, rimanendo fin dall'8 marzo stabilmente sopra il 40%, con punte superiori al 55%. Possiamo notare, inoltre, che una buona parte di questi contenuti (più del 15% a partire dal 23 febbraio) proviene dalle testate digitali, seguite dai quotidiani e dalle fonti di disinformazione. Queste ultime producono il 4% dei contenuti su COVID-19, con una media di circa 3,400 post settimanali a partire dal 23 febbraio.
+	La Figura 1 mostra la <b>percentuale di post settimanali</b> pubblicati rispettivamente su Facebook, Instagram e Twitter sul tema coronavirus. Se nelle prime settimane di emergenza la percentuale di contenuti COVID-19 rimaneva inferiore al 10% su tutte le piattaforme, dopo la notizia dei primi casi confermati in Lombardia (20 febbraio 2020) tale frazione quadruplica, rimanendo per oltre due mesi sopra il 25% su Facebook, il 30% su Twitter e il 45% su Instagram, con punte rispettivamente del 40, 50 e 65%. È interessante notare come Instagram raggiunga le percentuali maggiori sebbene, con una media di 2,960 post settimanali, sia il canale meno utilizzato dall'insieme di fonti considerate, seguito da Twitter con 33,930 e Facebook con 78,150.
 	</p>
 </div>
 
-
 <div class="w3-white w3-card-4 w3-center" >
-    {% include figures/2_fb_covid_content.html %}
+    {% include figures/2_covid_content.html %}
 </div>
 
 <div class="en">
 	<p>
-	Similarly, Figure 2 shows the <b>percentage of weekly tweets</b> on the topic of COVID-19. Also in this case, the percentage of news on coronavirus is less than 12% until the third week of February, when the production of contents on the topic doubles, rapidly settling down to more than 30%, with peaks close to 50% in the central weeks of March. Tweets published by misinformation sources have a lower incidence in the overall period (1.2%). 
+	Figure 2a shows the percentages of Figure 1 divided by type of source. We can see that the main contributions come from institutions, newspapers and digital news outlets. Misinformation on COVID-19 is more present on Facebook than on the other platforms, although it remains constantly below 4% with an average of about 3,040 weekly posts starting from February, 23. As a percentage, Radios and TVs posted more COVID-19 content on Instagram, while news agencies mainly used Twitter. Scientific sources, on the other hand, contributed only marginally to the discussion of the COVID-19 topic on social media (less than 0.2% on Facebook and Twitter and less than 2% on Instagram during the entire period analyzed). This confirms that the times of science are very different from those of journalism and not consistent with the early solutions required during health emergencies such as the one in progress.
 	</p>
 </div>
 
 <div class="it">
 	<p>
-	Analogamente alla precedente, la Figura 2 mostra <b>la percentuale di contenuti settimanali pubblicati su Twitter</b> sulla tematica COVID-19. Anche in questo caso, la percentuale di notizie sul coronavirus resta inferiore al 12% fino alla terza settimana di febbraio, a partire dalla quale assistiamo ad una produzione più che raddoppiata di contenuti sul tema, che si assesta rapidamente sopra il 30%, con picchi vicini al 50% nelle settimane centrali del mese di marzo. I tweet provenienti da fonti disinformazione hanno un'incidenza inferiore all'1,2% nell'intero periodo considerato.  
+	La Figura 2a mostra le percentuali della Figura 1 divise per tipo di fonte. Possiamo notare come i contributi maggiori provengano da istituzioni, quotidiani e testate digitali. La disinformazione su COVID-19 è più presente su Facebook rispetto alle altre piattaforme, sebbene rimanga comunque costantemente sotto il 4% con una media di circa 3,040 post settimanali a partire dal 23 febbraio. Radio e TV hanno in percentuale postato più contenuti COVID-19 su Instagram, mentre le Agenzie di informazione hanno utilizzato principalmente Twitter. Le fonti scientifiche hanno invece contributo solo marginalmente alla discussione dell'argomento COVID-19 sui social (meno dello 0.2% su Facebook e Twitter e meno del 2% su Instagram durante tutto il periodo analizzato). Questo conferma come i tempi della scienza siano ben diversi da quelli del giornalismo e incompatibili con l'urgenza di soluzioni richiesta durante emergenze come quella sanitaria in corso. 
 	</p>
 </div>
 
 <div class="w3-white w3-card-4 w3-center" >
-    {% include figures/2_tw_covid_content.html %}
+    {% include figures/2a_covid_content.html %}
+</div>
+
+<div class="en">
+	<p>
+	Figure 2b shows the percentage of weekly COVID-19 content related to the type of source on Facebook, Instagram and Twitter, respectively. Namely, the graphs indicate how much space each type of source has devoted weekly to the coronavirus theme on each social media. Except for the few posts published on Instagram, both misinformation and scientific sources have never exceeded the 40% threshold on Facebook and Twitter, even during the weeks of maximum emergency between mid-march and mid-april. 
+	</p>
+</div>
+
+<div class="it">
+	<p>
+	La Figura 2b mostra la percentuale settimanale di contenuti COVID-19 relativa al tipo di fonte su Facebook, Instagram e Twitter. In altre parole, i grafici indicano quanto spazio ogni tipo di fonte abbia dedicato settimanalmente al tema coronavirus su ciascuna piattaforma. Fatta eccezione per i pochi post pubblicati su Instagram, sia fonti di disinformazione che fonti scientifiche non hanno mai superato la soglia del 40% su Facebook e Twitter, nemmeno durante le settimane di massima emergenza comprese tra metà marzo e metà aprile.  
+	</p>
+</div>
+
+<div class="w3-white w3-card-4 w3-center" >
+    {% include figures/2b_covid_content.html %}
 </div>
 

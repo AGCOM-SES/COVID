@@ -17,15 +17,15 @@ color: red
     Walter Quattrociocchi <sup>2</sup>,
     Fabiana Zollo <sup>2,4,+</sup><br>
     *<small> Questi autori hanno contribuito equamente allo studio.</small><br>
-    <sup>1</sup> <small><a href="https://www.isc.cnr.it/">Istituto dei sistemi complessi CNR Roma</a></small>
-    <sup>2</sup> <small><a href="https://www.unive.it/">Università Ca' Foscari di Venezia</a></small>
-    <sup>3</sup> <small><a href="http://www.ospedalebambinogesu.it/home">Ospedale Pediatrico Bambino Gesù, Roma</a></small>
-    <sup>4</sup> <small><a href="https://hscif.org/venice/">Center for the Humanities and Social Change, Venezia</a></small><br>
-    <sup>+</sup><small>e-mail: <a href="fabiana.zollo@unive.it">fabiana.zollo@unive.it</a></small>
+    <sup>1</sup> <small><a href="https://www.isc.cnr.it" target="_blank">Istituto dei sistemi complessi CNR Roma</a></small>
+    <sup>2</sup> <small><a href="https://www.unive.it" target="_blank">Università Ca' Foscari di Venezia</a></small>
+    <sup>3</sup> <small><a href="http://www.ospedalebambinogesu.it" target="_blank">Ospedale Pediatrico Bambino Gesù, Roma</a></small>
+    <sup>4</sup> <small><a href="https://hscif.org/venice" target="_blank">Center for the Humanities and Social Change, Venezia</a></small><br>
+    <sup>+</sup><small>e-mail: <a href="mailto:fabiana.zollo@unive.it">fabiana.zollo@unive.it</a></small>
     </div>
     <br><br>
     <p> 
-	Una delle sfide poste dall'emergenza sanitaria in corso consiste nel comprendere come le persone si informano, selezionano e percepiscono i contenuti e, possibilmente, come questo incide sulle loro decisioni. In questo report, <b>aggiornato periodicamente</b>, proviamo a delineare lo scenario informativo su COVID-19 caratterizzando la diffusione e la percezione di notizie e contenuti sul coronavirus sulle principali piattaforme social a partire dal 1° gennaio 2020.
+	Una delle sfide poste dall'emergenza sanitaria in corso consiste nel comprendere come le persone si informano, selezionano e percepiscono le notizie e, possibilmente, come questo incide sulle loro decisioni. In questo report, <b>aggiornato periodicamente</b>, proviamo a delineare lo scenario informativo su COVID-19 caratterizzando la diffusione e la percezione dei contenuti riguardanti l'argomento sulle principali piattaforme social a partire dal 3 gennaio 2020, giorno in cui la Cina ha informato l'OMS della diffusione di una <a href="https://twitter.com/who/status/1213523866703814656" target="_blank">misteriosa polmonite</a> nella provincia dell'Hubei.
     </p>
   </div>
 </div>
@@ -39,16 +39,16 @@ color: red
     Antonio Scala <sup>1</sup>,
     Walter Quattrociocchi <sup>2</sup>,
     Fabiana Zollo <sup>2,4,+</sup><br>
-    *<small> Questi autori hanno contribuito equamente allo studio.</small><br>
-    <sup>1</sup> <small><a href="https://www.isc.cnr.it/">Istituto dei sistemi complessi CNR, Roma</a></small>
-    <sup>2</sup> <small><a href="https://www.unive.it/">Università Ca' Foscari di Venezia</a></small>
-    <sup>3</sup> <small><a href="http://www.ospedalebambinogesu.it/home">Ospedale Pediatrico Bambino Gesù, Roma</a></small>
-    <sup>4</sup> <small><a href="https://hscif.org/venice/">Center for the Humanities and Social Change, Venezia</a></small><br>
-    <sup>+</sup><small>e-mail: <a href="fabiana.zollo@unive.it">fabiana.zollo@unive.it</a></small>
+    *<small> These authors contributed equally to the study.</small><br>
+    <sup>1</sup> <small><a href="https://www.isc.cnr.it" target="_blank">Istituto dei sistemi complessi CNR Roma</a></small>
+    <sup>2</sup> <small><a href="https://www.unive.it" target="_blank">Università Ca' Foscari di Venezia</a></small>
+    <sup>3</sup> <small><a href="http://www.ospedalebambinogesu.it" target="_blank">Ospedale Pediatrico Bambino Gesù, Roma</a></small>
+    <sup>4</sup> <small><a href="https://hscif.org/venice" target="_blank">Center for the Humanities and Social Change, Venezia</a></small><br>
+    <sup>+</sup><small>e-mail: <a href="mailto:fabiana.zollo@unive.it">fabiana.zollo@unive.it</a></small>
     </div>
     <br><br>
     <p> 
-	One of the challenges in the ongoing medical emergency is to understand how people get informed, select and perceive information and, possibly, how this influences their decisions. In this report, which will be <b>updated periodically</b>, we aim to outline the information scenery on COVID-19 characterizing news spreading and perception on coronavirus on the main social media platforms starting from January, 1st 2020.
+	One of the challenges in the ongoing medical emergency is to understand how people get informed, select and perceive information and, possibly, how this influences their decisions. In this report, which will be <b>updated periodically</b>, we aim to outline the information scenery on COVID-19 characterizing news spreading and perception on coronavirus on the main social media platforms starting from January, 3rd 2020, the day when China reported to WHO a cluster of <a href="https://twitter.com/who/status/1213523866703814656" target="_blank">mysterious pneumonia</a> cases in the Hubei province.
     </p>
   </div>
 </div>

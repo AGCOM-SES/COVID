@@ -8,60 +8,43 @@ title_en: What do they talk about?
 
 <div class="en">
     <p>
-	In this section we want to further investigate what content on COVID-19 is covered by different information sources on the considered platforms. By applying topic modelling techniques, we were able to automatically identify the <b>main topics of discussion on coronavirus</b>, on both Facebook and Twitter. Topics range from  contagion data, to decrees and restriction measures, up to protective equipment such as masks, and are summarized in the wordclouds below.
+	In this section we analyze the <b>most used words</b> and the <b>main topics of discussion</b> on COVID-19 by information (news agencies, scientific sources, institutions, newspapers, radios, digital news outlets and TVs) and misinformation, respectively, on Facebook, Instagram and Twitter.
+     </p>
+     <p>
+	The wordclouds below show that information sources rely on most terms related to contagion data and restriction measures, while among source of misinformation, terms related to the international situation, hypotheses on the origin of contagion and the scientific debate are more frequent.
     </p>
 </div>
 
 <div class="it">
      <p>
-	In questa sezione vogliamo studiare più a fondo i contenuti su COVID-19, cercando di identificare le <b>tematiche principali</b> che vengono affrontate dalle diverse fonti di informazione sulle piattaforme considerate. Utilizzando tecniche di  topic modelling,  abbiamo individuato in maniera automatica i principali temi legati all'argomento COVID-19 sia su Facebook che su Twitter. Gli argomenti trattati spaziano dai dati sul contagio, ai decreti e alle misure restrittive, fino ai dispositivi di protezione, e sono riassunti nelle wordcloud qui sotto. 
+	In questa sezione analizziamo i <b>termini più utilizzati</b> e gli <b>argomenti più discussi</b> nei post dedicati a COVID-19 su Facebook, Instagram e Twitter rispettivamente dall'insieme delle fonti di informazione (agenzie di informazione, fonti scientifiche, istituzioni, quotidiani, radio, testate digitali e TV) e dalle fonti di disinformazione.
+     </p>
+     <p>
+	Le wordcloud seguenti mostrano come le fonti di informazione utilizzino maggiormente termini legati all'andamento del contagio (casi, positivi, decessi, tamponi) e alle misure adottate dalle istituzioni per fronteggiare l'emergenza (decreto, presidente, Conte, regione, comune, ordinanza, controlli), mentre tra le fonti di disinformazione sono più frequenti termini legati alla situazione internazionale (pandemia, Cina, Germania, Francia, Russia, Trump, Sanders, Netanyahu), ad ipotesi sull'origine del contagio (laboratorio, militare, bufala, Wuhan) e al dibattito scientifico (guarigioni, esperti, scienziati, studio, proteasi, ferro, temperature, caldo).
     </p>
 </div>
 
 <div class="w3-white w3-card-4 w3-center" >
-	<img width="1000" src="assets/images/3_wordcloud.png">
+	<img width="1200" src="assets/images/3_wordcloud.png">
 </div>
 
 <div class="en">
-    <p>
-    In particular, we compared how different topics are covered by information and misinformation sources.
+	<p>
+	Figure 3 shows in detail the main arguments on COVID-19 discussed by information and misinformation sources, respectively, on Facebook, Instagram and Twitter. The different topics have been detected by means of <a href="https://www.structuraltopicmodel.com" target="_blank">structural topic modeling</a> and, for easing their comparison, are ordered according to the coverage on Facebook among misinformation sources.
 	</p>
 	<p>
-	Figure 3 shows the results for Facebook. The topics detected are ordered, from left to right, according to the coverage among misinformation sources. As an example, the topic of virus outbreak (Trend dei contagi) was covered in more than 12% of content produced by both information and misinformation sources. Basically, the topics identified receive similar attention from both source selections.
-	</p>
-	<p>
-	 Noteworthy differences in favor of Information mostly concern topics of public interest such as the Measures provided by the various Prime Ministerial Decree (Misure previste dai vari DPCM) and the Regional provisions (Provvedimenti regionali). On the contrary, the topics preferred by Misinformation are mainly linked to the polarizing nature of the argument, such as the origin story of coronavirus (Origine del virus) and the possible relationship between virus and climate change (Relazione ambiente-virus).
+	Contagion data (Trend dei contagi) and the Measures provided by the various Prime Ministerial Decree (Misure previste dai vari DPCM) are the most discussed topics by both Information and Misinformation with the maximum proportion of 13, 15 and 17% on Facebook, Instagram and Twitter, respectively. Basically, the topics identified receive similar attention from both source selections. Noteworthy differences in favor of Information mostly concern topics of public interest such as Regional provisions (Provvedimenti regionali) and the surveillance and complaints submitted by policyholders during lockdown (Controlli e denunce). On the contrary, the topics preferred by Misinformation are mainly related to the polarizing nature of the argument, such as the origin story of coronavirus (Origine del virus), the possible relationship between virus and climate change (Relazione ambiente-virus) and, especially on Instagram, the coronavirus crisis in the US.
     </p>
 </div>
 
 <div class="it">
     <p>
-    In particolare, abbiamo confrontato quanto le diverse tematiche sono state trattate sia dalle fonti di informazione che da quelle di disinformazione.
-	</p>
+    La Figura 3 mostra in dettaglio le principali tematiche trattate rispettivamente da fonti di informazione e disinformazione nei post dedicati all'argomento COVID-19 sulle tre piattaforme considerate. I diversi argomenti sono stati ottenuti utilizzando tecniche di <a href="https://www.structuraltopicmodel.com" target="_blank"> topic modeling strutturale</a> e, per facilitarne il confronto, sono ordinati in base al livello di copertura tra le fonti di disinformazione su Facebook. 	</p>
 	<p>
-	La Figura 3 mostra i risultati per Facebook. Le tematiche sono ordinate, da sinistra a destra, in base al livello di copertura tra le fonti di disinformazione. Ad esempio, il tema Trend dei contagi è stato trattato in più del 12% dei contenuti prodotti sia da fonti di informazione che fonti di disinformazione. Sostanzialmente, gli argomenti individuati ricevono attenzione simile da entrambe le selezioni di fonti.
-	</p>
-	<p>
-	Differenze degne di nota a favore di Informazione riguardano per lo più argomenti di interesse pubblico come le Misure previste dai vari DPCM e i Provvedimenti regionali. Al contrario, le tematiche preferite da Disinformazione sono legate soprattutto alla natura polarizzante dell'argomento, come ad esempio le ipotesi sull'Origine del virus e la possibile Relazione ambiente-virus (smog, cambiamento climatico,…).
+	Trend dei contagi e Misure previste dai vari DPCM sono gli argomenti più discussi sia da fonti di informazione che disinformazione con percentuali massime del 13, 15 e 17% rispettivamente su Facebook, Instagram e Twitter. Sostanzialmente, quasi tutti i temi individuati ricevono attenzione simile da entrambe le selezioni di fonti. Differenze degne di nota a favore di Informazione riguardano per lo più temi di interesse pubblico come Provvedimenti regionali e Controlli e denunce. Al contrario, le tematiche preferite da Disinformazione sono legate soprattutto alla natura polarizzante dell'argomento, come ad esempio le ipotesi sull'Origine del virus, la possibile Relazione ambiente-virus (smog, cambiamento climatico,…) e, principalmente su Instagram, la situazione USA.
     </p>
 </div>
 
 <div class="w3-white w3-card-4 w3-center" >
-    {% include figures/3_fb_topic.html %}
-</div>
-
-<div class="en">
-	<p>
-	Figure 4 shows the results and a similar trend also for the topics related to COVID-19 addressed on Twitter.
-    </p>
-</div>
-
-<div class="it">
-	<p>
-	La Figura 4 mostra i risultati e un andamento simile anche per gli argomenti relativi al COVID-19 affrontati su Twitter.
-    </p>
-</div>
-
-<div class="w3-white w3-card-4 w3-center" >
-    {% include figures/3_tw_topic.html %}
+    {% include figures/3_topic.html %}
 </div>

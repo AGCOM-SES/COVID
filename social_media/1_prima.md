@@ -14,6 +14,6 @@ title_en: Before starting
 
 <div class="it">
   <p>
-	In questa pagina troverai diversi <b>grafici interattivi</b>. Facendo scorrere il mouse sul grafico, diverse informazioni aggiuntive compariranno in sovraimpressione. Ogni grafico presenta in alto a destra una barra degli strumenti. Questi strumenti ti consentono di personalizzare la tua esperienza di interazione con i dati presentati. Ad esempio, puoi selezionare, ingrandire o ridurre alcune aree del grafico, esportarlo come un’immagine, abilitare le linee guida, o modificare le informazioni che compaiono in sovraimpressione. Ti invitiamo a provare i diversi strumenti per trovare la modalità di visualizzazione che più si adatta alle tue esigenze.
+	In questa pagina troverai diversi <b>grafici interattivi</b>. Facendo scorrere il mouse sul grafico, diverse informazioni aggiuntive compariranno in sovraimpressione. Ogni grafico presenta in alto a destra una barra degli strumenti. Questi strumenti ti consentono di personalizzare la tua esperienza di interazione con i dati presentati. Ad esempio, puoi selezionare, ingrandire o ridurre alcune aree del grafico, scegliere quali informazioni mostrare, abilitare le linee guida o esportare il grafico come immagine. Ti invitiamo a provare i diversi strumenti per trovare la modalità di visualizzazione che più si adatta alle tue esigenze.
   </p>
 </div>

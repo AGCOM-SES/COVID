@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html>
+   <head>
+      <title>AGCOM DATA SCIENCE TASK FORCE</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.ico">
+<link rel="stylesheet" href="assets/css/w3.css">
+<script src="lib/htmlwidgets-1.5.1/htmlwidgets.js"></script>
+<script src="lib/plotly-binding-4.9.2/plotly.js"></script>
+<script src="lib/typedarray-0.1/typedarray.min.js"></script>
+<script src="lib/jquery-1.11.3/jquery.min.js"></script>
+<link href="lib/crosstalk-1.0.0/css/crosstalk.css" rel="stylesheet" />
+<script src="lib/crosstalk-1.0.0/js/crosstalk.min.js"></script>
+<link href="lib/plotly-htmlwidgets-css-1.52.2/plotly-htmlwidgets.css" rel="stylesheet" />
+<script src="lib/plotly-main-1.52.2/plotly-latest.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+.it,.en {display:none;}
+/*.w3-main {display:none;}
+#mySidebar {display: none;}
+*/
+#universe {display:none;}
+.side_ist_logo {
+   width: 200px;
+   height: 60px;
+   vertical-align: middle;
+   display: inline;
+   }
+.side_ist_logo img {
+   max-width: 200px;
+   max-height: 60px;
+   vertical-align: middle;
+   }
+.ist_logo {
+   width: 250px;
+   height: 75px;
+   vertical-align: middle;
+   display: inline;
+   }
+.ist_logo img {
+   max-width: 250px;
+   max-height: 75px;
+   vertical-align: middle;
+   }
+.my-main {
+   margin-left:300px;
+   margin-top:43px;
+}
+.my-header {
+   padding-top:22px; 
+   text-align: center;
+}
+.logo_container {
+   text-align: center;
+   letter-spacing: 50px;
+   line-height: 100px;
+   margin: 25px;
+}
+</style>
+</head>
+<body class="w3-light-grey">
+   <div id="universe">
+<!-- Top container
+-->
+<div class="w3-bar w3-top w3-black w3-large" style="z-index:4">
+   <a class="w3-bar-item w3-button w3-left w3-padding" onclick="window.location='index.html'+window.location.search;"><i class="fa fa-home fa-fw" style="font-size: 1.4em;"></i></a>
+   <button class="w3-bar-item w3-button w3-hide-large w3-hover-none w3-hover-text-light-grey" onclick="w3_open();"><i class="fa fa-bars"></i>  Menu</button>
+   <a class="w3-bar-item w3-button w3-right w3-padding" href="?lang=it">Italiano</a>
+   <a class="w3-bar-item w3-button w3-right w3-padding" href="?lang=en">English</a>
+</div>
+ 
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-collapse w3-white" id="mySidebar" style="width:300px;z-index:3;"><br>
+   <div class="w3-container w3-row">
+      <img src="assets/images/logo-agcom.png" style="width: 100%">
+   </div>
+   <div class="w3-container w3-padding-16" style="font-size: .9em;">
+      <i class="it"> Task Force di Data Science attivata da AGCOM - Servizio Economico-Statistico sul tema della disinformazione online durante l'Emergenza Covid-19. I risultati preliminari delle ricerche vengono pubblicati qui e sono in continuo aggiornamento.</i>
+      <i class="en"> Data Science Task Force about online disinformation powered by AGCOM - Servizi Economico-Statistici. Preliminary results of the researches are published here and are constantly updated.</i>
+   </div>
+ <div class="w3-container w3-bar-block">
+ <h5>Focus</h5>
+ <!--    <a href="#intro" class="w3-bar-item w3-button w3-padding"> Introduction</a>
+ -->
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  <a onclick="window.location='searches.html'+window.location.search;">
+  <div class="w3-bar-item w3-button w3-teal" style="margin: 10px 0 0 0; font-size: 1.2em;">
+    <i class="fa fa-search fa-fw"></i>
+    <span class="it">Quello che le persone vogliono (sapere) </span>
+    <span class="en">What people want (to know) </span>
+  </div>
+  </a>
+  
+ 
+ 
+ 
+  <a onclick="window.location='social_media.html'+window.location.search;">
+  <div class="w3-bar-item w3-button w3-red" style="margin: 10px 0 0 0; font-size: 1.2em;">
+    <i class="fa fa-search fa-fw"></i>
+    <span class="it">Il dibattito pubblico sui social media </span>
+    <span class="en">The public debate on social media </span>
+  </div>
+  </a>
+  
+ 
+ 
+
+ <!--
+ <a onclick="window.location='f2.html'+window.location.search;">
+   <div class="w3-bar-item w3-button w3-teal" style="margin: 10px 0; font-size: 1.2em;">
+     <i class="fa fa-comments fa-fw"></i> <span class="it"> Focus 2 italiano</span><span class="en"> Focus 2 english </span> 
+   </div>
+ </a>
+ <a onclick="window.location='f2.html'+window.location.search;">
+   <div class="w3-bar-item w3-button w3-blue" style="margin: 10px 0; font-size: 1.2em;">
+     <i class="fa fa-comments fa-fw"></i> <span class="it"> Focus 3 italiano</span><span class="en"> Focus 3 english </span> 
+   </div>
+ </a>
+-->
+</div>
+ <!--
+<div class="w3-container w3-bar-block" style="font-size: .9em;">
+  <h5>
+    <span class="it"> Con il contributo di:</span>
+    <span class="en"> Contributors:</span>
+  </h5>
+  <div class="w3-bar-item w3-button">
+    <span class="it">
+      SONY Computer Science Lab - Parigi
+    </span>
+    <span class="en">
+      SONY Computer Science Lab - Paris
+    </span>
+   </div>
+   <div class="w3-bar-item w3-button">
+    <span class="it">
+      Dipartimento di Fisica di Sapienza - Università di Roma
+    </span>
+    <span class="en">
+      Sapienza - University of Rome - Physics Dept.
+    </span>
+   </div>
+   <div class="w3-bar-item w3-button">
+    <span class="it">
+      Istituto  Enrico  Fermi  di  Roma
+    </span>
+    <span class="en">
+      Istituto  Enrico  Fermi  di  Roma
+    </span>
+   </div>
+   <div class="w3-bar-item w3-button">
+    <span class="it">
+      Università Ca’ Foscari di Venezia
+    </span>
+    <span class="en">
+      Università Ca’ Foscari di Venezia
+    </span>
+   </div>
+   <div class="w3-bar-item w3-button">
+    <span class="it">
+      Istituto dei Sistemi Complessi del Consiglio Nazionale delle Ricerche
+    </span>
+    <span class="en">
+      Istituto dei Sistemi Complessi del Consiglio Nazionale delle Ricerche
+    </span>
+   </div>
+</div>
+-->
+<div class="w3-container w3-bar-block" style="font-size: .9em;">
+  <h5>
+    <span class="it"> Con il contributo di:</span>
+    <span class="en"> Contributors:</span>
+  </h5>
+<div class="w3-bar-item w3-button w3-center">
+  <div class="side_ist_logo"> <img src="assets/images/Uniroma1.png"> </div>
+</div>
+<div class="w3-bar-item w3-button w3-center">
+  <div class="side_ist_logo"> <img src="assets/images/cafoscari.png"> </div>
+</div>
+<div class="w3-bar-item w3-button w3-center">
+  <div class="side_ist_logo"> <img src="assets/images/SonyCSL.png"> </div>
+</div>
+<div class="w3-bar-item w3-button w3-center">
+  <div class="side_ist_logo"> <img src="assets/images/cnr-isc3.png"> </div>
+</div>
+<div class="w3-bar-item w3-button w3-center">
+  <div class="side_ist_logo"> <img src="assets/images/centrofermi-3.png"> </div>
+</div>
+</div>
+<hr>
+<hr>
+<hr>
+ </nav>
+ 
+ 
+ <!-- Overlay effect when opening sidebar on small screens -->
+ <div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+ 
+
+<div class="w3-main my-main">
+  <div class="w3-container">
+
+  <div class="en">
+	<p>
+	The results shown in this study are based on the analysis of two datasets:
+	</p>
+	<p>
+	<ol>
+		<li>
+		AGCOM Data: document database built starting from data extracted through the platform developed by Volocom Technology. In particular, we analyzed the textual content of documents generated in Italy (01/01/2020 - 19/05/2020) from the social media accounts (Facebook e Twitter) of  662 information sources (Italian TV and radio channels, newspapers, news agencies,  digital news outlets) and misinformation sources identified as such by independent parties specialized in debunking activities. 
+		</li>
+		<li>
+		CrowdTangle Data: data of Facebook pages (posts, number of likes, reactions, shares, comments) of 800 information sources (Italian TV and radio channels, newspapers, news agencies,  digital news outlets, institutional communication channels) and misinformation sources identified as such by independent parties specialized in debunking activities.
+		</li>
+	</ol>
+	</p>
+	<p>
+	The textual contents related to COVID-19 is identified by using <a href="https://github.com/brema76/COVID_keywords" target="_blank">lists of tokens</a> (hashtags, keywords and phrases) created especially for this aim.
+	</p>
+	<p>
+	The textual analysis of Section "What do they talk about?" is performed by removing all the tokens used for filtering the contents related to COVID-19.
+	</p>
+</div>
+
+<div class="it">
+	<p>
+	I risultati riportati in questo studio sono ottenuti analizzando due dataset:
+	</p>
+	<p>
+	<ol>
+		<li>
+		Dati AGCOM: database documentale costruito a partire dai dati estrapolati attraverso la piattaforma sviluppata da Volocom Technology. In particolare, è stato analizzato il contenuto testuale di documenti generati in Italia (dal 1° gennaio 2020 al 19 maggio 2020) dai canali social (Facebook e Twitter) di più di 662 fonti informative (canali televisivi e radiofonici nazionali, quotidiani, agenzie di stampa, testate esclusivamente online) e fonti di disinformazione individuate come tali da soggetti esterni specializzati in attività di debunking.  
+		</li>
+		<li>
+		Dati CrowdTangle: dati relativi alle pagine Facebook (post, numero di like, reazioni, condivisioni, commenti) di 800 fonti informative (canali televisivi e radiofonici nazionali, quotidiani, agenzie di stampa, testate esclusivamente online, canali istituzionali) e fonti di disinformazione individuate come tali da soggetti esterni specializzati in attività di debunking.  
+		</li>
+	</ol>
+	</p>
+	<p>
+	I contenuti relativi a COVID-19 sono stati filtrati utilizzando <a href="https://github.com/brema76/COVID_keywords" target="_blank">liste di token</a> (hashtags, parole chiavi e frasi) create appositamente.
+	</p>
+	<p>
+	Le analisi testuali alla sezione "Di cosa si parla?" sono state eseguite eliminando i token utilizzati per filtrare i contenuti relativi a COVID-19.
+	</p>
+</div>
+
+  </div>
+</div>
+
+<script>
+// Get the Sidebar
+var mySidebar = document.getElementById("mySidebar");
+
+// Get the DIV with overlay effect
+var overlayBg = document.getElementById("myOverlay");
+
+// Toggle between showing and hiding the sidebar, and add overlay effect
+function w3_open() {
+  if (mySidebar.style.display === 'block') {
+    mySidebar.style.display = 'none';
+    overlayBg.style.display = "none";
+  } else {
+    mySidebar.style.display = 'block';
+    overlayBg.style.display = "block";
+  }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+  mySidebar.style.display = "none";
+  overlayBg.style.display = "none";
+}
+
+$( "#lang_sel_it" ).click(function() {
+    $(".en").hide();
+    $(".it").show();
+  });
+  $( "#lang_sel_en" ).click(function() {
+    $(".it").hide();
+    $(".en").show();
+  });
+
+  function GetURLParameter(sParam)
+	{
+	    var sPageURL = window.location.search.substring(1);
+	    var sURLVariables = sPageURL.split('&');
+	    for (var i = 0; i < sURLVariables.length; i++)
+	    {
+	        var sParameterName = sURLVariables[i].split('=');
+	        if (sParameterName[0] == sParam)
+	        {
+	            return sParameterName[1];
+	        }else{
+              return "it"
+          }
+	    }
+	}
+console.log(GetURLParameter('lang'))
+if (GetURLParameter('lang') == 'en'){$(".it").hide(); $(".en").show();}
+if (GetURLParameter('lang') == 'it'){$(".en").hide(); $(".it").show();}
+
+
+$(window).ready(function() {
+		// Animate loader off screen
+//    $("#mySidebar").fadeIn();
+//    $(".w3-main").fadeIn();
+    $("#universe").fadeIn(750);
+	});
+
+</script>
+<hr>
+<hr>
+<hr>
+<hr>
+<hr>
+</div>
+</body>
+</html>
+
+
+
+
