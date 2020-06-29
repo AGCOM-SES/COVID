@@ -25,9 +25,7 @@ title_en: What do they talk about?
 </div>
 
 <div class="w3-white w3-card-4 w3-center">
-	<div style="width:1200px;">
 	<img src="assets/images/3_wordcloud.png" width="1200">
-	</div>
 </div>
 
 <div class="en">
