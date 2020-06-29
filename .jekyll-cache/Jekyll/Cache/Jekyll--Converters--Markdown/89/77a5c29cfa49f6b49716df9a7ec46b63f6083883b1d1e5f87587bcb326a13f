@@ -1,4 +1,4 @@
-I"ì”<div class="en">
+I"Ó”<div class="en">
     <p>
 	In this section we analyze the <b>most used words</b> and the <b>main topics of discussion</b> on COVID-19 by information (news agencies, scientific sources, institutions, newspapers, radios, digital news outlets and TVs) and misinformation, respectively, on Facebook, Instagram and Twitter.
      </p>
@@ -17,8 +17,8 @@
 </div>
 
 <div class="w3-white w3-card-4 w3-center">
-	<div class="w3-white w3-card-4 w3-center" style="width:1200px;">
-		<img src="assets/images/3_wordcloud.png" width="1200" />
+	<div style="width:1200px;height:450px;">
+	<img src="assets/images/3_wordcloud.png" width="1200" />
 	</div>
 </div>
 
