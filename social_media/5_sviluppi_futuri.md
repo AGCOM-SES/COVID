@@ -15,6 +15,6 @@ title_en: Future developments
 
 <div class="it">
 	<p>
-	Questo report è in <b>costante aggiornamento</b>. Aggiorneremo periodicamente i grafici con nuovi dati, e pianifichiamo di completare l'insieme di piattaforme social da analizzare con <b>YouTube</b>. 
+	Questo report è in <b>costante aggiornamento</b>. Aggiorneremo periodicamente i grafici con nuovi dati, e pianifichiamo di completare l'insieme di piattaforme social da analizzare includendo anche <b>YouTube</b>. 
 	</p>
 </div>
