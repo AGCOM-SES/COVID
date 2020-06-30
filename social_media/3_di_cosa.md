@@ -39,7 +39,8 @@ title_en: What do they talk about?
 
 <div class="it">
     <p>
-    La Figura 3 mostra in dettaglio le principali tematiche trattate rispettivamente da fonti di informazione e disinformazione nei post dedicati all'argomento COVID-19 sulle tre piattaforme considerate. I diversi argomenti sono stati ottenuti utilizzando tecniche di <a href="https://www.structuraltopicmodel.com" target="_blank"> topic modeling strutturale</a> e, per facilitarne il confronto, sono ordinati in base al livello di copertura tra le fonti di disinformazione su Facebook. 	</p>
+    La Figura 3 mostra in dettaglio le principali tematiche trattate rispettivamente da fonti di informazione e disinformazione nei post dedicati all'argomento COVID-19 sulle tre piattaforme considerate. I diversi argomenti sono stati ottenuti utilizzando tecniche di <a href="https://www.structuraltopicmodel.com" target="_blank"> topic modeling strutturale</a> e, per facilitarne il confronto, sono ordinati in base al livello di copertura tra le fonti di disinformazione su Facebook.
+	</p>
 	<p>
 	Trend dei contagi e Misure previste dai vari DPCM sono gli argomenti più discussi sia da fonti di informazione che disinformazione con percentuali massime del 13, 15 e 17% rispettivamente su Facebook, Instagram e Twitter. Sostanzialmente, quasi tutti i temi individuati ricevono attenzione simile da entrambe le selezioni di fonti. Differenze degne di nota a favore di Informazione riguardano per lo più temi di interesse pubblico come Provvedimenti regionali e Controlli e denunce. Al contrario, le tematiche preferite da disinformazione sono legate soprattutto alla natura polarizzante dell'argomento, come ad esempio le ipotesi sull'Origine del virus, la possibile relazione ambiente-virus (smog, cambiamento climatico,…) e, principalmente su Instagram, la situazione USA.
     </p>
